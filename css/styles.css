@@ -76,6 +76,7 @@ body {
 
 .mine {
     max-height: 30rem;
+    vertical-align: middle;
 }
 
 hr {
