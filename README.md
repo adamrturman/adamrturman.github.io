@@ -29,7 +29,7 @@ I'm a Chicago-based software developer with the desire and drive to build tools 
 
 # Software Engineering Projects
 
-### Leet hints — *full-stack application for improving skills on technical interview coding challenges*
+### [leet hints](https://adamrturman.github.io/leet-hints-client/#/) — *full-stack application for improving skills on technical interview coding challenges*
 - Front-end is built with React, styled with Bootstrap, and deployed to Github Pages.
 - Back end is built with an Express API, backed by MongoDB, and deployed to Heroku.
 
