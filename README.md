@@ -6,8 +6,8 @@ I'm a Chicago-based software developer with the desire and drive to build tools 
 
 - Phone: (219) 616-6708
 - Email: adamrturman@gmail.com
-- Portfolio: adamrturman.github.io
-- Github: github.com/adamrturman
+- Portfolio: https://adamrturman.github.io/
+- Github: https://github.com/adamrturman
 - LinkedIn: https://www.linkedin.com/in/adam-robert-turman/
 
 
