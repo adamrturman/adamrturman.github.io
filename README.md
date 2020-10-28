@@ -1,5 +1,5 @@
-# Adam Robert Turman
-### Software Developer
+# Adam Robert Turman - Software Developer
+
 
 I'm a Chicago-based software developer with the desire and drive to build tools that help others. Whether it's writing code or improvising music on stage, my mind feels most at home where logic and science intersect with creativity and art.
 
@@ -8,7 +8,7 @@ I'm a Chicago-based software developer with the desire and drive to build tools 
 - Email: adamrturman@gmail.com
 - Portfolio: adamrturman.github.io
 - Github: github.com/adamrturman
-- LinkedIn: linkedin.com/in/adam-r-turman
+- LinkedIn: https://www.linkedin.com/in/adam-robert-turman/
 
 
 # Software Skills
