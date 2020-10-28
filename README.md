@@ -50,14 +50,14 @@ I'm a Chicago-based software developer with the desire and drive to build tools 
 - Single-page application that uses token authentication with a RESTful API to create user and game functionality.
 - Interactive user experience and game logic built with vanilla Javascript and jQuery.
 
-# ADDITIONAL WORK EXPERIENCE
+# Additional Work Experience
 ### Crown Point Community School Corporation — *Department Chair & Instrumental Music Teacher, August 2015 - June 2020*
 - Designed curriculum and delivered individualized instruction to over 1200 students.
 - Managed annual budget, led department meetings, and acted as liaison to administration and third party vendors for equipment purchasing and repairs.
 - Grew student enrollment by 45% over in four years by building meaningful relationships with community stakeholders.
 
 
-# EDUCATION
+# Education 
 ### DePaul University - *Master of Music, September 2011 - June 2013*
 
 ### Indiana University - *Bachelor of Music, August 2007 - May 2011*
