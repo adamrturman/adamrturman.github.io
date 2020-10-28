@@ -21,8 +21,7 @@ I'm a Chicago-based software developer with the desire and drive to build tools 
 - Bootstrap
 
 # Techical Experience
-### General Assembly
-#### Software Engineering Fellow, June 2020 - September 2020
+### General Assembly - Software Engineering Fellow, June 2020 - September 2020
 - Over 600 hours of training, writing, and testing code focusing on industry best-practices.
 - MERN stack-focused, with the inclusion of Python and Django.
 - Built and deployed 4 applications utilizing user authentication, CRUD functionality, and database interaction, both as an individual and on a team.
