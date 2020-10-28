@@ -33,20 +33,20 @@ I'm a Chicago-based software developer with the desire and drive to build tools 
 - Front-end is built with React, styled with Bootstrap, and deployed to Github Pages.
 - Back end is built with an Express API, backed by MongoDB, and deployed to Heroku.
 
-### Educational Supply Store — *full-stack e-commerce store for donating items to schools in need*
+### [Educational Supply Store](https://worldwide-coders.github.io/educational-store/#/) — *full-stack e-commerce store for donating items to schools in need*
 - Allows users to view items for sale, add them to a cart, and simulate a purchase.
 - Built using the MERN stack - MongoDB, Express, React, and Node.
 - Checkout and credit card payment are handled by Stripe API.
 - Utilized Github for version control and video conferencing for pair-programming.
 - Built as a member of a remote team.
 
-### barbeQuery — *full-stack application for creating and updating barbeque recipes*
+### [barbeQuery](https://adamrturman.github.io/barbeQuery-client/) — *full-stack application for creating and updating barbeque recipes*
 - Back-end is built with an Express API backed by MongoDB and deployed to Heroku.
 - Front-end is built with Javascript and jQuery and deployed to Github Pages.
 - Templating is handled by Handlebars.
 - Styled with Bootstrap.
 
-### tikTakTow — *front-end application for playing and logging games of tic tac toe*
+### [tikTakTow](https://adamrturman.github.io/tiktaktow-client/) — *front-end application for playing and logging games of tic tac toe*
 - Single-page application that uses token authentication with a RESTful API to create user and game functionality.
 - Interactive user experience and game logic built with vanilla Javascript and jQuery.
 
